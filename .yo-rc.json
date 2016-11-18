@@ -1,0 +1,9 @@
+{
+  "generator-openapi-repo": {
+    "name": "Kroon API",
+    "repo": "mkroon/kroon-api",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
